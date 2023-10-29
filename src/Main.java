@@ -1,6 +1,7 @@
 import java.util.Arrays;
 
 
+//hi this is the homework that descirbes getter and setter
 public class Main{
 
 
